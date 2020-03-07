@@ -5,13 +5,16 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/constraintAutomaton/hack2020Lain/server/src/controller"
+	"github.com/constraintAutomaton/hack2020Lain/src/controller"
 	"github.com/gorilla/mux"
 )
 
 func main() {
 	r := initializeServer()
-	r.HandleFunc("/", controller.Ping())
+	r.HandleFunc("/", controller.Ping).Methods("GET")
+	r.HandleFunc("/event", controller.Event).Methods("GET")
+	r.HandleFunc("/schedule/{user}", controller.Schedule).Methods("GET")
+	r.HandleFunc("/schedule/{user}", controller.Schedule).Methods("POST")
 
 	err := http.ListenAndServe(getPort(), r)
 	if err != nil {
