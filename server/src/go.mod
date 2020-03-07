@@ -4,6 +4,7 @@ go 1.13
 
 require (
 	github.com/bxcodec/faker/v3 v3.3.0
+	github.com/constraintAutomaton/nonaCard v0.0.0-20200216155922-e0827cca9366 // indirect
 	github.com/corpix/uarand v0.1.1 // indirect
 	github.com/gorilla/handlers v1.4.2
 	github.com/gorilla/mux v1.7.4
