@@ -13,8 +13,10 @@ func main() {
 	r := initializeServer()
 	r.HandleFunc("/", controller.Ping).Methods("GET")
 	r.HandleFunc("/event", controller.Event).Methods("GET")
-	r.HandleFunc("/schedule/{user}", controller.Schedule).Methods("GET")
-	r.HandleFunc("/schedule/{user}", controller.Schedule).Methods("POST")
+	r.HandleFunc("/schedule", controller.GetAllSchedule).Methods("GET")
+	r.HandleFunc("/schedule/{user}", controller.GetSchedule).Methods("GET")
+	r.HandleFunc("/schedule/{user}", controller.PostSchedule).Methods("POST")
+	r.HandleFunc("/user")
 
 	err := http.ListenAndServe(getPort(), r)
 	if err != nil {
