@@ -1,4 +1,0 @@
-# github.com/constraintAutomaton/hack2020Lain/src
-./main.go:19:14: not enough arguments in call to r.HandleFunc
-	have (string)
-	want (string, func(http.ResponseWriter, *http.Request))
