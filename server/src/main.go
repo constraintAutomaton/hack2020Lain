@@ -20,6 +20,7 @@ func main() {
 	r.HandleFunc("/schedule/{user}", controller.PostSchedule).Methods("POST")
 	r.HandleFunc("/user", controller.User).Methods("GET")
 	r.HandleFunc("/co2", controller.Co2).Methods("GET").Queries("distance", "{distance}")
+	//r.HandleFunc("/csv", controller.Co2).Methods("GET").Queries("distance", "{distance}")
 
 	err := http.ListenAndServe(getPort(), handlers.CORS()(r))
 	if err != nil {
