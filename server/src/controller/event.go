@@ -5,13 +5,15 @@ import (
 	"encoding/json"
 	"fmt"
 	"net/http"
+
+	"github.com/constraintAutomaton/hack2020Lain/src/db"
 )
 
 func Event(w http.ResponseWriter, r *http.Request) {
-	data := []int{2, 3, 5, 7, 11, 13}
-	event := map[string][]int{"data": data}
 
-	jsonValue, _ := json.Marshal(event)
+	repository := *(db.GetRepository())
+
+	jsonValue, _ := json.Marshal(repository.ListEvent())
 	w.Header().Set("Content-Type", " application/json")
 	fmt.Fprint(w, bytes.NewBuffer(jsonValue))
 }

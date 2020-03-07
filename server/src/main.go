@@ -6,17 +6,21 @@ import (
 	"os"
 
 	"github.com/constraintAutomaton/hack2020Lain/src/controller"
+	"github.com/gorilla/handlers"
 	"github.com/gorilla/mux"
 )
 
 func main() {
 	r := initializeServer()
+
 	r.HandleFunc("/", controller.Ping).Methods("GET")
 	r.HandleFunc("/event", controller.Event).Methods("GET")
-	r.HandleFunc("/schedule/{user}", controller.Schedule).Methods("GET")
-	r.HandleFunc("/schedule/{user}", controller.Schedule).Methods("POST")
+	r.HandleFunc("/schedule", controller.GetAllSchedule).Methods("GET")
+	r.HandleFunc("/schedule/{user}", controller.GetSchedule).Methods("GET")
+	r.HandleFunc("/schedule/{user}", controller.PostSchedule).Methods("POST")
+	//r.HandleFunc("/user")
 
-	err := http.ListenAndServe(getPort(), r)
+	err := http.ListenAndServe(getPort(), handlers.CORS()(r))
 	if err != nil {
 		log.Fatal(err)
 	}
