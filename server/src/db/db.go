@@ -19,7 +19,7 @@ func (db DbType) String() string {
 }
 
 type DbDriver interface {
-	AddSchedule(user string, schedule ScheduleData)
+	AddSchedule(user string, int eventId)
 	GetSchedule(user string) ScheduleData
 	ListEvent() []Event
 	ListSchedule() map[string]ScheduleData
@@ -38,6 +38,7 @@ type Event struct {
 	Categorie      string
 	NomArtiste     string
 	SiteArtiste    string
+	Id             int
 }
 
 type ScheduleData struct {
@@ -64,10 +65,11 @@ func setUpDb() *DbDriver {
 	return &repo
 }
 func createDummyEvent() Event {
+	data, _ := strconv.Atoi(fake.DigitsN(20))
 	return Event{Coordinate: [2]float32{fake.Latitude(), fake.Longitude()},
 		NumerosDeFiche: fake.DigitsN(20), Parcours: fake.DomainName(), NomDeLOeuvre: fake.Brand(),
 		Annee: fake.Year(2000, 2020), Promoteur: fake.FemaleFullName(), Propriete: fake.FemaleFullName(),
-		Categorie: fake.Industry(), NomArtiste: fake.FemaleFullName(), SiteArtiste: fake.DomainName()}
+		Categorie: fake.Industry(), NomArtiste: fake.FemaleFullName(), SiteArtiste: fake.DomainName(), Id: data}
 }
 func createDummySchedule() ScheduleData {
 	date1, _ := strconv.Atoi(fake.DigitsN(20))
