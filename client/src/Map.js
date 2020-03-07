@@ -9,28 +9,33 @@ class LeafletComponent extends React.Component {
         this.state = {
             lat: 48.45,
             lng: -68.53,
-            zoom: 13
+            zoom: 13,
         }
     }
 
     renderPastilles() {
         return data.features.map(el => {
             const obj = { lat: el.geometry.coordinates[1], lng: el.geometry.coordinates[0] }
-            const desc = [el.properties.PROPRIETE, el.properties.TECHNIQUE, el.properties.MATERIAUX]
+            const desc = [el.properties.NOM_DE_L_OEUVRE, el.properties.PROPRIETE, el.properties.TECHNIQUE, el.properties.MATERIAUX]
+
             return <Pastille key={el.properties.OBJECTID} position={obj} popupMessage={desc} ></Pastille>
         })
     }
 
+
     render() {
         const position = [this.state.lat, this.state.lng];
         return (
-            <LeafletMap center={position} zoom={this.state.zoom} id="map" style={{ position: "static" }}>
-                <TileLayer
-                    attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-                    url='https://{s}.tile.osm.org/{z}/{x}/{y}.png'
-                />
-                {this.renderPastilles()}
-            </LeafletMap>
+            <>
+                <LeafletMap center={position} zoom={this.state.zoom} id="map" style={{ position: "static" }}>
+                    <TileLayer
+                        attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+                        url='https://{s}.tile.osm.org/{z}/{x}/{y}.png'
+                    />
+                    {this.renderPastilles()}
+
+                </LeafletMap>
+            </>
         );
     }
 }
