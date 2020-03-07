@@ -1,5 +1,6 @@
 package db
 
+/**
 import (
 	"database/sql"
 	"fmt"
@@ -47,3 +48,4 @@ func (db *DbSqlite) AddEvent(event Event) {
 func (db DbSqlite) GetSchedule(user string) ScheduleData {
 	return createDummySchedule()
 }
+*/

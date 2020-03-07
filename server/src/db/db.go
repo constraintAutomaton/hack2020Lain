@@ -19,7 +19,7 @@ func (db DbType) String() string {
 }
 
 type DbDriver interface {
-	AddSchedule(user string, int eventId)
+	AddSchedule(user string, eventId int)
 	GetSchedule(user string) ScheduleData
 	ListEvent() []Event
 	ListSchedule() map[string]ScheduleData
