@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import LeafletComponent from "./Map"
-import Calendar from "./Calendargit a"
+import Calendar from "./Calendar"
 import {Map as LeafletMap, TileLayer} from "react-leaflet";
 
 function App() {
