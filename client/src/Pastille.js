@@ -5,7 +5,7 @@ class Pastille extends React.Component {
     constructor() {
         super()
         this.state = {
-            isAdding: false
+            isAdding: false,
         }
     }
 
