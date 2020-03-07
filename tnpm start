@@ -1,0 +1,72 @@
+[33mcommit 9e48f16e87696ebb4f830bb57dccde577d2f0e9f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Emile Cyr-Perreault <ecyre013@cegep-rimouski.qc.ca>
+Date:   Sat Mar 7 02:49:20 2020 -0500
+
+    beginning of Calendar.js
+
+[33mcommit 2e058046ae3cdc7b6d7d0eadd4e08fd6f536f223[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yacine <yacine.seffal@gmail.com>
+Date:   Fri Mar 6 21:42:13 2020 -0500
+
+    Added way to show many pastilles
+
+[33mcommit 5ab620dffa9e827375ceed6cf5e7f87ca0fce60f[m
+Author: Your Name <you@example.com>
+Date:   Sat Mar 7 01:26:21 2020 -0500
+
+    rm md
+
+[33mcommit f81a3c016b89fed500ee5d9cafe4029452ac3eee[m
+Author: Your Name <you@example.com>
+Date:   Sat Mar 7 01:20:47 2020 -0500
+
+    callendar
+
+[33mcommit 5dfdf55a80cb26c6dd6b562d8971e1e303f9a310[m
+Merge: fb94b47 bd5c9b0
+Author: bryan-elliott.tam.1@ulaval.ca <bryan-elliott.tam.1@ulaval.ca>
+Date:   Sat Mar 7 00:16:14 2020 -0500
+
+    Merge branch 'master' of https://github.com/constraintAutomaton/hack2020Lain
+
+[33mcommit fb94b4772fb89229ddd8241b8244da065524386d[m
+Author: bryan-elliott.tam.1@ulaval.ca <bryan-elliott.tam.1@ulaval.ca>
+Date:   Sat Mar 7 00:15:29 2020 -0500
+
+    db driver started
+
+[33mcommit 6c33e5475fe1296585bb4969ee61d6cd680f3ef6[m
+Author: bryan-elliott.tam.1@ulaval.ca <bryan-elliott.tam.1@ulaval.ca>
+Date:   Fri Mar 6 22:58:37 2020 -0500
+
+    first
+
+[33mcommit bd5c9b0c47b1fbbc8fbad32699c1df4ef55fa2d3[m
+Author: yacine <yacine.seffal@gmail.com>
+Date:   Fri Mar 6 19:08:45 2020 -0500
+
+    Added Map
+
+[33mcommit 7678e8784e56378180350f125e9b7f11042ceee3[m
+Author: yacine <yacine.seffal@gmail.com>
+Date:   Fri Mar 6 17:46:17 2020 -0500
+
+    CRA
+
+[33mcommit 553f6db84a44c2423e602c4a416e536427556619[m
+Author: bryan-elliott.tam.1@ulaval.ca <bryan-elliott.tam.1@ulaval.ca>
+Date:   Wed Mar 4 05:39:20 2020 -0500
+
+    planification added
+
+[33mcommit 625f06e589527edf3964528bcb573accbdf6d456[m
+Author: bryan-elliott.tam.1@ulaval.ca <bryan-elliott.tam.1@ulaval.ca>
+Date:   Wed Mar 4 05:17:31 2020 -0500
+
+    frontend diagram started
+
+[33mcommit 1f457a41f55906fe9ce4c455f58ea290ce244b91[m
+Author: bryan-elliott.tam.1@ulaval.ca <bryan-elliott.tam.1@ulaval.ca>
+Date:   Wed Mar 4 04:50:27 2020 -0500
+
+    package diagram
