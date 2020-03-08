@@ -33,7 +33,7 @@ class Calendar extends React.Component {
 
     onShare() {
         const n = this.state.randomName
-        fetch(`http://localhost:8080/schedule/${n}`, { method: "POST" })
+        fetch(`http://localhost:8080/save/${n}`, { method: "POST", body: JSON.stringify({ name: n }) })
     }
     render() {
         const date = "dimanche 8 mars";
@@ -44,7 +44,7 @@ class Calendar extends React.Component {
                 <span>{date}</span>
             </div>
             <ul>
-                {this.state.data.map(objet => <li className={'start'} key="{objet.NomDeLOeuvre}">
+                {this.state.data.map((objet, i) => <li className={'start'} key={i}>
                     <img
                         src={'https://images.pexels.com/photos/2444429/pexels-photo-2444429.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'}
                         alt={"marker"} />
