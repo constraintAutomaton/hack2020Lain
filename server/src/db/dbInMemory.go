@@ -46,7 +46,7 @@ func (db DbInMemory) GetSchedule(user string) ScheduleData {
 
 func (db *DbInMemory) PopulateDbEvent(nb int) {
 	go doIt("https://www.donneesquebec.ca/recherche/fr/dataset/1601c350-6b7f-41fe-80ad-5b9bca4973ed/resource/ddbb2a46-0995-4256-ae44-7d68ffc5b651/download/artpublic.json", db)
-	go doIt("https://www.donneesquebec.ca/recherche/fr/dataset/053ba55b-d6c4-42b4-86f5-0d0937d291ba/resource/d12a3f0b-6438-432d-bb69-de40736945dc/download/lieupublic.json", db)
+	// go doIt("https://www.donneesquebec.ca/recherche/fr/dataset/053ba55b-d6c4-42b4-86f5-0d0937d291ba/resource/d12a3f0b-6438-432d-bb69-de40736945dc/download/lieupublic.json", db)
 }
 
 func doIt(url string, db *DbInMemory) {
