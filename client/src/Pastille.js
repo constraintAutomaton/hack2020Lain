@@ -13,10 +13,30 @@ class Pastille extends React.Component {
     }
     addEvent() {
         let data = this.props.data;
-        data.startHour = this.state.startHour;
-        data.startHour = this.state.endHour;
-        setData(this.props.data);
+        const sh = this.state.startHour;
+        const eh = this.state.endHour;
+        setData({ ...this.props.data, startHour: sh, endHour: eh });
         console.log(getData());
+    }
+
+    onChangeStart(ev) {
+        if (ev.target.value) {
+
+            this.setState({
+                startHour: ev.target.value
+            })
+        }
+    }
+
+
+
+    onChangeEnd(ev) {
+        if (ev.target.value) {
+
+            this.setState({
+                endHour: ev.target.value
+            })
+        }
     }
     render() {
         return (
@@ -45,8 +65,8 @@ class Pastille extends React.Component {
                             <>
                                 <div className="calendar-picker">
                                     <input type="date"></input>
-                                    <input type="time"></input>
-                                    <input type="time"></input>
+                                    <input type="time" onChange={(ev) => this.onChangeStart(ev)}></input>
+                                    <input type="time" onChange={(ev) => this.onChangeEnd(ev)}></input>
                                 </div>
                                 <div className="picker-buttons">
                                     <button

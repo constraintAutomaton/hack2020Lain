@@ -48,7 +48,7 @@ class Calendar extends React.Component {
                     <img
                         src={'https://images.pexels.com/photos/2444429/pexels-photo-2444429.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500'}
                         alt={"marker"} />
-                    <div className={'location'}>{objet.NomDeLOeuvre}</div>
+                    <div className={'location'}>{objet.properties.NOM_DE_L_OEUVRE}</div>
                     <div className={'hour'}>
                         <span>{objet.startHour}</span>
                         <span>{objet.endHour}</span>
