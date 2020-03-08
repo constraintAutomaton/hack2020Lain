@@ -64,7 +64,6 @@ class Pastille extends React.Component {
                         {this.state.isAdding && (
                             <>
                                 <div className="calendar-picker">
-                                    <input type="date"></input>
                                     <input type="time" onChange={(ev) => this.onChangeStart(ev)}></input>
                                     <input type="time" onChange={(ev) => this.onChangeEnd(ev)}></input>
                                 </div>
