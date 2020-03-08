@@ -1,0 +1,2411 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5224824749,
+                    48.4338793528,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "MUNICIPALITE": "10043",
+                "NOM": "Plaza Arthur-Buies",
+                "TYPE": null,
+                "ADRESSE": "411, avenue Sirois, Rimouski (Qc)",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-722-8122",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 229146.9222,
+                "YNAD83MTM6": 5366641.0276,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4977069148,
+                    48.4537639287,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 52,
+                "MUNICIPALITE": "10043",
+                "NOM": "Cité des achats",
+                "TYPE": null,
+                "ADRESSE": " ",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 231008.8457,
+                "YNAD83MTM6": 5368827.729,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5257399323,
+                    48.4528677919,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 53,
+                "MUNICIPALITE": "10043",
+                "NOM": "La Grande Place",
+                "TYPE": null,
+                "ADRESSE": "80, rue Saint-Germain Est, Rimouski (Qc) G5L 3H8",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 228934.1935,
+                "YNAD83MTM6": 5368755.4941,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5305057246,
+                    48.4506645599,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "MUNICIPALITE": "10043",
+                "NOM": "Bureau d'information touristique de Rimouski",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "50, Rue St-Germain Ouest",
+                "WEB": "http://tourismerimouski.com/",
+                "COURRIEL": "inforiki@tourisme-rimouski.org",
+                "INFORMATIO": "<u>Horaire</u>:<br/>Du 4 mai au 12 juin 2015:; du lundi au vendredi de 9 h à 16 h 30<br/><br/>Du 15 juin au 6 septembre 2015 :; tous les jours de 8 h 30 à 19 h 30.<br/><br/>Du 7 septembre au 11 octobre 2015 :; en semaine : 8 h 30 à 17 h 30;; samedi et",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 723-2322",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 228578.4126,
+                "YNAD83MTM6": 5368515.2601,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5292022751,
+                    48.4504773158,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "MUNICIPALITE": "10043",
+                "NOM": "Musée régional de Rimouski",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "35, rue Saint-Germain Ouest",
+                "WEB": "http://www.museerimouski.qc.ca",
+                "COURRIEL": "info@museerimouski.qc.ca",
+                "INFORMATIO": "<u>Horaire</u> :<br/>Du 15 juin au 6 septembre 2015 :; tous les jours de 9 h 30 à 18 h<br/> Du 7 septembre 2015 au 12 juin 2016 :;  du mercredi au dimanche de 12 h à 17 h<br/>( jusqu’à 20 h le jeudi)<br/><br/><u>Coûts</u> :;  adultes: 6 $; enfants,",
+                "A_INFO_PHO": "Informations (poste 102):",
+                "PHONE_A": "418 724-2272",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 228674.5414,
+                "YNAD83MTM6": 5368493.1442,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.525229019,
+                    48.4492377934,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "MUNICIPALITE": "10043",
+                "NOM": "Hôtel de ville",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "205, avenue de la Cathédrale",
+                "WEB": "http://www.ville.rimouski.qc.ca/",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": "Accueil et renseignement généraux:",
+                "PHONE_A": "418 723-3313",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 228966.5758,
+                "YNAD83MTM6": 5368351.3834,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5126096319,
+                    48.4675733467,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "MUNICIPALITE": "10043",
+                "NOM": "Le Carrefour Rimouski",
+                "TYPE": null,
+                "ADRESSE": "419, Boul. Jessop, Rimouski (Qc) G5L 7Y5",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-722-8666",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 229926.9565,
+                "YNAD83MTM6": 5370377.6173,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5912678677,
+                    48.4283956737,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Sacré-Coeur",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "148, rue du Rocher-Blanc",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité de 135 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.; 1 patinoire extérieure asphaltée et éclairée.; 4 paniers de basketball situés à la patinoire.; 1 terrain de soccer.; 1 espace vert multi",
+                "A_INFO_PHO": "Réservation de salle :",
+                "PHONE_A": "418 725-8776",
+                "B_INFO_PHO": "Patinoire:",
+                "PHONE_B": "418 724-3274",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 224048.8994,
+                "YNAD83MTM6": 5366101.57,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5204288478,
+                    48.441415978,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "MUNICIPALITE": "10043",
+                "NOM": "Colisée Financière SunLife",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "111, 2e Rue Ouest",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Aréna de 4 300 sièges.; Superficie de glace de 85 par 200 pieds.; Possibilité de faire de la marche ou de la course à pied en périphérie des gradins<br/><br/><u>Patinage libre (pour tous) 1,25 $</u>:; les samedi de 18 h 55 à 19 h 55.; les dimanche",
+                "A_INFO_PHO": "Horaire des activités :",
+                "PHONE_A": "418 724-3217",
+                "B_INFO_PHO": "Administration :",
+                "PHONE_B": "418 724-3229",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229310.0352,
+                "YNAD83MTM6": 5367476.965,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5217535943,
+                    48.4430723877,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "MUNICIPALITE": "10043",
+                "NOM": "Les Galeries GP",
+                "TYPE": null,
+                "ADRESSE": "92, 2e Rue ouest, Rimouski, (Qc) G5L 8B3",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-775-2546",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 229214.4913,
+                "YNAD83MTM6": 5367662.4411,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5165395653,
+                    48.4378845335,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "MUNICIPALITE": "10043",
+                "NOM": "Les Tennis de Rimouski",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "416, avenue Rouleau",
+                "WEB": "http://www.tennisrimouski.com",
+                "COURRIEL": "info@tennisrimouski.com",
+                "INFORMATIO": "6 terrains intérieurs.; 4 terrains extérieurs.",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 724-6149",
+                "B_INFO_PHO": "ou :",
+                "PHONE_B": "418 724-6155",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229592.5424,
+                "YNAD83MTM6": 5367080.4915,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5211871973,
+                    48.4578035627,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre des congrès de Rimouski",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "225, boulevard René-Lepage Est",
+                "WEB": "https://hotelrimouski.com/",
+                "COURRIEL": "hotelrim@hotelrimouski.com",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-725-5000",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 229278.2401,
+                "YNAD83MTM6": 5369299.7804,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5265607361,
+                    48.4304053108,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Terrasse Arthur-Buies",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "387, rue des Passereaux",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité d’environ 130 personnes avec services audiovisuels  disponibles sur demande.; Salle de réunion pouvant accueillir 12 à 15 personnes.; 1 patinoire extérieure asphaltée et éclairée.; 2 terrains de tennis éclai",
+                "A_INFO_PHO": "Réservation de salle :",
+                "PHONE_A": "418 724-8096",
+                "B_INFO_PHO": "Patinoire:",
+                "PHONE_B": "418 724-3122",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 228839.9987,
+                "YNAD83MTM6": 5366258.8019,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5453321599,
+                    48.4318740271,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Sainte-Odile",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "505, rue des Écarts",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité de 220 personnes pouvant être divisée en deux plus petites salles de capacités respectives de 60 et 160 personnes.; Services audiovisuels disponibles en location.; Accès Internet sans fil Z.A.P. Bas Saint-Laurent",
+                "A_INFO_PHO": "Réservation de salle :",
+                "PHONE_A": "418 318-2117",
+                "B_INFO_PHO": "Patinoire:",
+                "PHONE_B": "418 724-3272",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 227453.2611,
+                "YNAD83MTM6": 5366440.8924,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5265324689,
+                    48.4380977438,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Saint-Robert",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "358, avenue Sirois",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité de 145 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.; 1 salle additionnelle  d’une capacité d’environ 60 personnes.; 1 terrain de balle éclairé.; 1 patinoire extérieure asphaltée et écla",
+                "A_INFO_PHO": "Réservation de salle :",
+                "PHONE_A": "418 723-3276",
+                "B_INFO_PHO": "Patinoire / Piscine:",
+                "PHONE_B": "418 724-3268",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 228853.5566,
+                "YNAD83MTM6": 5367114.0611,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5051889855,
+                    48.4575545573,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Sainte-Agnès Sud",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "305, rue Elzéar-Sasseville",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité de 170 personnes.; 1 Salle d’un capacité de 45 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.; 1 pavillon pour les utilisateurs de la patinoire.; 1 patinoire extérieure asphaltée et éclairée",
+                "A_INFO_PHO": "Réservation de salle :",
+                "PHONE_A": "418 724-4353",
+                "B_INFO_PHO": "Patinoire:",
+                "PHONE_B": "418 724-3282",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 230461.0075,
+                "YNAD83MTM6": 5369256.4335,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.521063608,
+                    48.445946057,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "MUNICIPALITE": "10043",
+                "NOM": "Pavillon polyvalent",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "313, avenue de la Cathédrale",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Capacité d’accueil de 500 personnes.; Superficie de glace de 80 par 182 pieds.<br/><br/><u>Patinage libre (pour tous)</u> :; Gratuit les mercredis de 13 h 15 à 14 h 15.<br/><br/><u>Patinage libre gratuit (50 ans et plus)</u>:; Les lundis, de 13 h 30",
+                "A_INFO_PHO": "Horaire des activités :",
+                "PHONE_A": "418 724-3217",
+                "B_INFO_PHO": "Administration :",
+                "PHONE_B": "418 724-3229",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229269.7946,
+                "YNAD83MTM6": 5367981.2712,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5263721477,
+                    48.4499379051,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "MUNICIPALITE": "10043",
+                "NOM": "Palais de justice",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "183, avenue de la Cathédrale",
+                "WEB": "http://www.justice.gouv.qc.ca/francais/joindre/palais/rimou.htm",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-727-3852",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services publics et sociaux",
+                "XNAD83MTM6": 228883.0664,
+                "YNAD83MTM6": 5368430.3589,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5341770029,
+                    48.4489434052,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "MUNICIPALITE": "10043",
+                "NOM": "Bureau de poste",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "136, rue Saint-Germain Ouest",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "1-800-267-1177",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services publics et sociaux",
+                "XNAD83MTM6": 228304.2839,
+                "YNAD83MTM6": 5368327.5541,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4950566797,
+                    48.4841690415,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "MUNICIPALITE": "10043",
+                "NOM": "Maison Lamontagne",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "707, boulevard du Rivage",
+                "WEB": "http://www.maisonlamontagne.com",
+                "COURRIEL": "maisonlamontagne@globetrotter.net",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": "En saison",
+                "PHONE_A": "418 722-4038",
+                "B_INFO_PHO": "Hors-saison et administration",
+                "PHONE_B": "418 722-3879",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 231248.8124,
+                "YNAD83MTM6": 5372205.81,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5003276487,
+                    48.4788280395,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "MUNICIPALITE": "10043",
+                "NOM": "Édifice communautaire Adhémar-Saint-Laurent",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "25, 3e Avenue",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 gymnase servant de salle d’une capacité d’accueil d’environ 235 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.; 1 local jeunesse avec tables de jeux récréatifs.; 1 gymnase.; 1 terrain de balle éclairé.; 2 terrains de socce",
+                "A_INFO_PHO": "Réservation de salles :",
+                "PHONE_A": "418 724-6417",
+                "B_INFO_PHO": "Patinoire:",
+                "PHONE_B": "418 724 6417",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 230851.4414,
+                "YNAD83MTM6": 5371617.0429,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5163948707,
+                    48.4614318979,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "MUNICIPALITE": "10043",
+                "NOM": "Édifice Louis-Joseph-Moreault",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": " ",
+                "WEB": "BANQ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 229638.0086,
+                "YNAD83MTM6": 5369698.4834,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4586211966,
+                    48.5108778089,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "MUNICIPALITE": "10043",
+                "NOM": "Édifice administratif et garage (Pointe-au-Père)",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "315, avenue Thomas-Dionne",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 233979.1825,
+                "YNAD83MTM6": 5375141.0938,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4590420356,
+                    48.5116643957,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "MUNICIPALITE": "10043",
+                "NOM": "Maison des jeunes de Pointe-au-Père",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "311, avenue Thomas-Dionne",
+                "WEB": " ",
+                "COURRIEL": "mdjpointo@hotmail.com",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 724-7172",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services publics et sociaux",
+                "XNAD83MTM6": 233949.1889,
+                "YNAD83MTM6": 5375228.942,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4753850155,
+                    48.5021106769,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "MUNICIPALITE": "10043",
+                "NOM": "Caserne de pompiers 64",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "620, boulevard Sainte-Anne",
+                "WEB": " ",
+                "COURRIEL": "incendie@ville.rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 232728.2919,
+                "YNAD83MTM6": 5374181.9606,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4558247176,
+                    48.5046341497,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Pointe-au-Père",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "400, avenue J.-Roger-Lebel",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité d’environ 80 personnes.; 1 salle communautaire d’une capacité d’environ 160 personnes.; Accès Internet sans fil de Z.A.P. Bas Saint Laurent.; 1 terrain de balle éclairé.; 2 terrains de soccer senior.; 6 ter",
+                "A_INFO_PHO": "Réservation et renseignements :",
+                "PHONE_A": "418 723 4018",
+                "B_INFO_PHO": "Patinoire:",
+                "PHONE_B": "418 723-4018",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 234177.1023,
+                "YNAD83MTM6": 5374444.2931,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.469056218,
+                    48.5174730383,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "MUNICIPALITE": "10043",
+                "NOM": "Phare de Pointe-au-Père",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "1000, rue du Phare",
+                "WEB": "http://www.shmp.qc.ca/",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-724-6214",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 233217.5669,
+                "YNAD83MTM6": 5375884.1146,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.468848193,
+                    48.5172339769,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "MUNICIPALITE": "10043",
+                "NOM": "Site historique maritime de la Pointe-au-Père",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": " ",
+                "WEB": "http://www.shmp.qc.ca",
+                "COURRIEL": " ",
+                "INFORMATIO": "200 ans d'histoire maritime.; Visite audioguidée du sous-marin Ononlaga.; visite du Musée Empress of Ireland avec exposition et projection multimédia.; visite du Phare.<br/><br/><u>Horaire</u> :<br/>  Du 6 juin au 4 octobre 2015;  tous les jours de 9",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 724-6214",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 233232.5964,
+                "YNAD83MTM6": 5375857.3393,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4689590081,
+                    48.513810672,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "MUNICIPALITE": "10043",
+                "NOM": "Kiosque d'information sur les marais salants",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "rue Marconi",
+                "WEB": "http://www.ec.gc.ca/ap-pa/default.asp?lang=Fr&n=E18DCC08-1",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 233219.5881,
+                "YNAD83MTM6": 5375476.815,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4644077339,
+                    48.3703719929,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 28,
+                "MUNICIPALITE": "10043",
+                "NOM": "Maison Souvenance",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "509, route des Pionniers",
+                "WEB": " ",
+                "COURRIEL": "cbrisso@globetrotter.net",
+                "INFORMATIO": "Exposition permanente de la maquette du village de Sainte-Blandine dans les années 1925 et autres expositions de photos et d’objets anciens.<br/><br/><u>Horaire</u>:;  du 21 juin au 1er septembre 2015;  de 10 h à 17 h du mercredi au dimanche<br/><br/",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 735-2181",
+                "B_INFO_PHO": "ou",
+                "PHONE_B": "418 735-0093",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 233354.9109,
+                "YNAD83MTM6": 5359524.2027,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5515553448,
+                    48.4413700079,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 29,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Nazareth",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "455, rue Cartier",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité de 115 personnes.; 1 salle de réunion pouvant accueillir 12 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.; système de son disponible en location.; 1 local jeunesse avec tables de jeux récréati",
+                "A_INFO_PHO": "Réservation de salle:",
+                "PHONE_A": "418 724-8802",
+                "B_INFO_PHO": "Patinoire / Pataugeoire:",
+                "PHONE_B": "418 721-0229",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 227007.2985,
+                "YNAD83MTM6": 5367503.0122,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5314533135,
+                    48.4452517176,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "MUNICIPALITE": "10043",
+                "NOM": "Maison des jeunes de Rimouski",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "169, rue Sainte-Anne",
+                "WEB": "https://www.facebook.com/mdj.rimouski/",
+                "COURRIEL": "maison.jeunes.rimouski@cgocable.ca",
+                "INFORMATIO": "Lieu de rencontre pour les jeunes âgés entre 11 et 17 ans<br/><br/><u>Horaire</u> :; Mardi, mercredi et jeudi : 18 h à 22 h.; Vendredi : 19 h à 23 h.; Samedi : 13 h à 16 h et 19 h à 23 h.",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 722-7525",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services publics et sociaux",
+                "XNAD83MTM6": 228500.2161,
+                "YNAD83MTM6": 5367914.373,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4944234032,
+                    48.4601642529,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 31,
+                "MUNICIPALITE": "10043",
+                "NOM": "Édifice municipal des travaux publics",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "475, 2e Rue Est",
+                "WEB": " ",
+                "COURRIEL": "travaux.publics@ville.rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": "Informations:",
+                "PHONE_A": "418 724-3144",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 231260.9389,
+                "YNAD83MTM6": 5369536.196,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5195597576,
+                    48.4425245265,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 32,
+                "MUNICIPALITE": "10043",
+                "NOM": "Édifice Claire-L'Heureux-Dubé",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "77, 2e Rue Ouest",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 229375.9699,
+                "YNAD83MTM6": 5367599.3632,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5285534715,
+                    48.4505351071,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 33,
+                "MUNICIPALITE": "10043",
+                "NOM": "Salle DESJARDINS-TELUS",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "25, rue Saint Germain Ouest",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Salle de spectacle ultramoderne de plus de 900 sièges.; Spect’Art Rimouski en assure la gestion de la diffusion",
+                "A_INFO_PHO": "Billetterie :",
+                "PHONE_A": "418 724-0800",
+                "B_INFO_PHO": "Location et tarification, poste 2 ou 5:",
+                "PHONE_B": "418 725-4990",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 228722.6162,
+                "YNAD83MTM6": 5368498.9248,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5287902021,
+                    48.4520150583,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 34,
+                "MUNICIPALITE": "10043",
+                "NOM": "Promenade de la mer",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "boulevard René-Lepage",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 228707.318,
+                "YNAD83MTM6": 5368663.7097,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5251814282,
+                    48.4330798055,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 35,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre jeunesse du Bas-Saint-Laurent",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": " ",
+                "WEB": " ",
+                "COURRIEL": "404, avenue Ross",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services publics et sociaux",
+                "XNAD83MTM6": 228946.04,
+                "YNAD83MTM6": 5366554.7996,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5688575955,
+                    48.4059698396,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 36,
+                "MUNICIPALITE": "10043",
+                "NOM": "Écocentre - Lieu d'enfouissement technique",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "835, chemin Victor-Gauvin",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/environnement/LET.html",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 225672.3836,
+                "YNAD83MTM6": 5363584.7639,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7120106298,
+                    48.3723612247,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 38,
+                "MUNICIPALITE": "10043",
+                "NOM": "Caserne de pompiers 58",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "149, rue Sainte-Cécile-du-Bic",
+                "WEB": "incendie@ville.rimouski.qc.ca",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 215015.8184,
+                "YNAD83MTM6": 5360005.8009,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.521021348,
+                    48.4465355082,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 39,
+                "MUNICIPALITE": "10043",
+                "NOM": "Caserne de pompiers 63",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "11, rue Saint-Laurent Ouest",
+                "WEB": " ",
+                "COURRIEL": "incendie@ville.rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 229273.7947,
+                "YNAD83MTM6": 5368046.7681,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7236266943,
+                    48.3734863165,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 40,
+                "MUNICIPALITE": "10043",
+                "NOM": "Marina et havre du Bic",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "route 132 Ouest",
+                "WEB": "http://marinas.com/view/marina/12552_Marina_Parc_Du_Bic_Le_Bic_QC_Canada",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 214157.3277,
+                "YNAD83MTM6": 5360144.5657,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7065256514,
+                    48.3743570495,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 41,
+                "MUNICIPALITE": "10043",
+                "NOM": "Théâtre du Bic",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "50, route du Golf-du-Bic",
+                "WEB": "http://theatredubic.com/",
+                "COURRIEL": "info@theatredubic.com",
+                "INFORMATIO": "Salle d’une capacité de 196 places;",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 736-4141",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 215425.6249,
+                "YNAD83MTM6": 5360221.2929,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7117563563,
+                    48.3721867389,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 42,
+                "MUNICIPALITE": "10043",
+                "NOM": "Garage municipal du Bic",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "149, rue Sainte-Cécile-du-Bic",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 215034.3476,
+                "YNAD83MTM6": 5359986.1031,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7097358045,
+                    48.3720366021,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 43,
+                "MUNICIPALITE": "10043",
+                "NOM": "Bureau de poste du Bic",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "141, rue Sainte-Cécile-du-Bic",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-736-4988",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services publics et sociaux",
+                "XNAD83MTM6": 215183.7619,
+                "YNAD83MTM6": 5359967.0458,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7044019501,
+                    48.3714345105,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 44,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre de loisirs Curé-Soucy",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "29, place de l’Église",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": "caroline.hebert@ville.rimouski.qc.ca",
+                "INFORMATIO": "1 salle polyvalente d’une capacité d’environ 225 personnes.; 2 salles d’environ 12 et 45 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.",
+                "A_INFO_PHO": "Réservation et renseignements",
+                "PHONE_A": "418 736-4833",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 215577.8307,
+                "YNAD83MTM6": 5359893.8801,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.6984577495,
+                    48.3755854703,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 45,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre administratif Émile-Gagnon",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "79, rue Sainte-Cécile-du-Bic",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 216025.387,
+                "YNAD83MTM6": 5360348.4962,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7101732978,
+                    48.3719264883,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 46,
+                "MUNICIPALITE": "10043",
+                "NOM": "Maison des jeunes du Bic",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "145, rue Louis-Joseph-Plante",
+                "WEB": "http://www.lebic.net/bmaisonjeunes.html",
+                "COURRIEL": "mdjbic@globetrotter.net",
+                "INFORMATIO": "Lieu de rencontre pour les jeunes âgés entre 12 et 17 ans.<br/><br/><u>Horaire</u> :; Mardi, mercredi et jeudi : 18 h 30 à 21 h.; Vendredi : 18 h à 22 h.; Samedi : selon les activités.",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 736-4056",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services publics et sociaux",
+                "XNAD83MTM6": 215151.16,
+                "YNAD83MTM6": 5359955.3146,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.6875675656,
+                    48.3759989246,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 47,
+                "MUNICIPALITE": "10043",
+                "NOM": "Complexe sportif Valois-Doucet",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "2645, route 132 Est",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Capacité de 500 personnes.; glace naturelle accessible de la mi octobre à la fin mars.; Possibilité de louer la salle d’une capacité de 100 à 150 personnes.; Patinage libre (pour tous).; 1 terrain de balle molle.; 1 grand terrain de soccer à 11 j",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 736-5208",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 216832.7658,
+                "YNAD83MTM6": 5360381.9082,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5225380649,
+                    48.4473930296,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 48,
+                "MUNICIPALITE": "10043",
+                "NOM": "Pavillon Saint-Germain",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "275, de la Cathédrale",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Piscine extérieure d’une capacité d’accueil de 280 baigneurs.; Pataugeoire pour enfants.",
+                "A_INFO_PHO": "Ligne info-piscines :",
+                "PHONE_A": "418 724-5368",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229162.8762,
+                "YNAD83MTM6": 5368143.6097,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.528076923,
+                    48.4501764444,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 49,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre culturel de Rimouski",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "22, rue Sainte Marie",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Jouxté à la Salle DESJARDINS-TELUS, le centre accueil les activités des organismes des arts de la scène et du patrimoine ;",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 724-3157",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 228757.3283,
+                "YNAD83MTM6": 5368458.5731,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5122133027,
+                    48.4759133455,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 50,
+                "MUNICIPALITE": "10043",
+                "NOM": "Édifice administratif et garage (Rimouski-Est)",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": " ",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 229968.5263,
+                "YNAD83MTM6": 5371304.5232,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5229843297,
+                    48.3881805033,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 51,
+                "MUNICIPALITE": "10043",
+                "NOM": "Garage municipal (Sainte-Odile)",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": " ",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 229041.9323,
+                "YNAD83MTM6": 5361560.492,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5038533516,
+                    48.4503581581,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 54,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Saint-Pie-X",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "280, boulevard Arthur-Buies Est",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité d’environ 260 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.; 1 salle pouvant accueillir 160 personnes.; 1 salle pouvant accueillir 100 personnes.; 1 salle de réunion.; 1 patinoire extérieure a",
+                "A_INFO_PHO": "Réservation de salle :",
+                "PHONE_A": "581 624-2287",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 230549.2903,
+                "YNAD83MTM6": 5368454.9984,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.471037211,
+                    48.517040464,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 55,
+                "MUNICIPALITE": "10043",
+                "NOM": "Sous-marin Onondaga",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "1000, rue du Phare",
+                "WEB": "http://www.shmp.qc.ca/",
+                "COURRIEL": "info@shmp.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-724-6214",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 233070.6255,
+                "YNAD83MTM6": 5375837.874,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5149233204,
+                    48.4602842094,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 56,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Sainte-Agnès Nord",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "129, rue Talbot",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité de 145 personnes.; 1 salle d’une capacité de 60 personnes.; 1 salle de réunion pouvant accueillir 12 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.; 1 terrain de balle éclairé.; 1 patinoire e",
+                "A_INFO_PHO": "Réservation de salle(messagerie vocale):",
+                "PHONE_A": "418 318-2578",
+                "B_INFO_PHO": "Patinoire:",
+                "PHONE_B": "418 724-3275",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 229745.1357,
+                "YNAD83MTM6": 5369569.4324,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5252390258,
+                    48.4499645316,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 57,
+                "MUNICIPALITE": "10043",
+                "NOM": "Service des loisirs et Service de l'urbanisme",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "186, de la Cathédrale",
+                "WEB": " ",
+                "COURRIEL": "loisirs@ville.rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 724-3157",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 228966.9178,
+                "YNAD83MTM6": 5368432.1963,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4586659962,
+                    48.3601197718,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 58,
+                "MUNICIPALITE": "10043",
+                "NOM": "Centre communautaire Sainte-Blandine",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "19, rue du Pavillon",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/centres.html#3",
+                "COURRIEL": " ",
+                "INFORMATIO": "1 salle polyvalente d’une capacité totale d’environ 300 personnes.; Accès Internet sans fil de Z.A.P. Bas-Saint-Laurent.; Une salle pouvant accueillir environ 75 personnes.; Une salle pouvant accueillir environ 225 personnes.; 1 local jeunesse avec",
+                "A_INFO_PHO": "Réservation et renseignements :",
+                "PHONE_A": "418 735 2752",
+                "B_INFO_PHO": "Patinoire:",
+                "PHONE_B": "418 735-2824",
+                "TYPE_SITE": "Centre communautaire",
+                "XNAD83MTM6": 233766.0087,
+                "YNAD83MTM6": 5358378.9786,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4585098341,
+                    48.3602854523,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 59,
+                "MUNICIPALITE": "10043",
+                "NOM": "Garage municipal (Sainte-Blandine)",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": " ",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 233777.81,
+                "YNAD83MTM6": 5358397.255,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4596094024,
+                    48.3609620914,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 60,
+                "MUNICIPALITE": "10043",
+                "NOM": "Caserne de pompiers 62 et édifice administratif",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "3, rue du Collège",
+                "WEB": " ",
+                "COURRIEL": "incendie@ville.rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Service / Édifice municipal",
+                "XNAD83MTM6": 233697.2785,
+                "YNAD83MTM6": 5358473.506,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5165076418,
+                    48.4404205291,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 61,
+                "MUNICIPALITE": "10043",
+                "NOM": "Complexe sportif Guillaume-Leblanc",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "115, rue Mercier",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Sur une superficie de plus de 2 000 000 pi2.; 2 terrains de balle éclairés.; 1 terrain de baseball éclairé.; 10 terrains de soccer.; 1 terrain de soccer football en gazon synthétique.; 1 piste d’athlétisme.; 1 terrain de football drapeau.; 1 terr",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 724-3228",
+                "B_INFO_PHO": "ou :",
+                "PHONE_B": "418 724-3229",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229598.6477,
+                "YNAD83MTM6": 5367362.4265,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5154489435,
+                    48.4373201403,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 62,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc canin",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "Intersection de l’avenue Rouleau et du boulevard Arthur-Buies",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/canin.html",
+                "COURRIEL": " ",
+                "INFORMATIO": "Adjacent au complexe sportif Guillaume-Leblanc.; Superficie de 1 775 m2.;  enclos permettant aux animaux de compagnie de courir et de jouer sans laisse.<br/><br/> <u>Horaire</u> :; De 7 h à 23 h",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229672.3975,
+                "YNAD83MTM6": 5367016.6684,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.515393426,
+                    48.4377744694,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 63,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc de planches à roulettes",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "Intersection de l’avenue Rouleau et du boulevard Arthur-Buies",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": "Informations:",
+                "PHONE_A": "418 724-3157",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229677.1748,
+                "YNAD83MTM6": 5367067.1288,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5157811917,
+                    48.437588437,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 64,
+                "MUNICIPALITE": "10043",
+                "NOM": "Terrain de basketball",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": " ",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Adjacent au complexe sportif Guillaume-Leblanc.; Le port du casque est obligatoire.; L’équipement complet de protection est fortement conseillé.",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229648.2123,
+                "YNAD83MTM6": 5367046.8252,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5210062538,
+                    48.4373219877,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 65,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc Lepage",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "383, rue de la Seigneuresse",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/equipements/Parc_Lepage.html",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": "Renseignements (été) :",
+                "PHONE_A": "418 724-3167",
+                "B_INFO_PHO": "Renseignements (hiver) :",
+                "PHONE_B": "418 724-3157",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229261.2499,
+                "YNAD83MTM6": 5367022.3415,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.53888302,
+                    48.4368397233,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 66,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc Beauséjour",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "400, boulevard de la Rivière",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Parc aménagé le long de la rivière rimouski offrant de nombreuses possibilités en terme d’activités de loisirs et de plein-air et ce 4 saisons et pour tous les âges;",
+                "A_INFO_PHO": "Réservations et informations :",
+                "PHONE_A": "418 724-3167",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 227937.9338,
+                "YNAD83MTM6": 5366986.5116,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5700914392,
+                    48.4706962858,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 67,
+                "MUNICIPALITE": "10043",
+                "NOM": "Île Saint-Barnabé",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "Marina de Rimouski: 1, route du Quai",
+                "WEB": "http://www.ilestbarnabe.com/",
+                "COURRIEL": "info@ilestbarnabe.com",
+                "INFORMATIO": "Billetterie (20 juin au 7 septembre 2015);",
+                "A_INFO_PHO": "Sans frais (Canada et États-Unis) :",
+                "PHONE_A": "1-800-746-6875",
+                "B_INFO_PHO": "Téléphone hors-saison :",
+                "PHONE_B": "418 723-2322",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 225681.6254,
+                "YNAD83MTM6": 5370782.6765,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5233352583,
+                    48.4490165792,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 68,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc de la gare",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "Intersection de l'avenue de la Cathédrale et de la rue de l'Évêché Est",
+                "WEB": "https://www.facebook.com/March%C3%A9-public-de-Rimouski-219887481371169/",
+                "COURRIEL": " ",
+                "INFORMATIO": "Marché public; Aire de repos avec gazébo; Mobiliers de parcs; Terrain de pétanque",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229106.3216,
+                "YNAD83MTM6": 5368324.9133,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5282560249,
+                    48.4509487827,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 69,
+                "MUNICIPALITE": "10043",
+                "NOM": "Place du 6 mai 1950",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "Au coin de la rue Saint-Germain Ouest et de la rue des Marguilliers",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Place publique de détente;",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 228745.2345,
+                "YNAD83MTM6": 5368544.6241,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5253554695,
+                    48.4499545937,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 70,
+                "MUNICIPALITE": "10043",
+                "NOM": "Galerie d'art Léonard-Parent",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "186, avenue de la Cathédrale",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/sports/galerieleonardparent.html",
+                "COURRIEL": " ",
+                "INFORMATIO": "<u>Horaire</u>:; Lundi au mercredi : 8 h 30 à 16 h; Jeudi et vendredi : 8 h 30 à 20 h; Samedi : 12 h à 17 h; Dimanche : 12 h à 16 h",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 724-3157",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 228958.2902,
+                "YNAD83MTM6": 5368431.2067,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7087755246,
+                    48.3704187313,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 71,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc du Mont Saint-Louis",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "À partir du stationnement de l'école primaire du Mont-Saint-Louis au 136, rue de la Grotte",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Sentiers.; Points d’observation.; Croix du Mont Saint-Louis.",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 215252.0604,
+                "YNAD83MTM6": 5359786.0428,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5201010351,
+                    48.4356185491,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 72,
+                "MUNICIPALITE": "10043",
+                "NOM": "Piscine Pierre-Harvey",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "250, boulevard Arthur-Buies Ouest",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": "Bassin avec un capacité d’accueil de 200 baigneurs;",
+                "A_INFO_PHO": "Informations :",
+                "PHONE_A": "418 724-3480",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229325.698,
+                "YNAD83MTM6": 5366832.051,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5206439673,
+                    48.4520188975,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 73,
+                "MUNICIPALITE": "10043",
+                "NOM": "Bibliothèque Lisette-Morin",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "110, rue de l’Évêché Est",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/bibliotheques/lisettemorin.html?iddoc=140574",
+                "COURRIEL": "bibliotheque.lisette-morin@ville.rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-724-3164",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services / Édifices municipaux",
+                "XNAD83MTM6": 229309.8382,
+                "YNAD83MTM6": 5368656.0711,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.458887588,
+                    48.5111360417,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 74,
+                "MUNICIPALITE": "10043",
+                "NOM": "Bibliothèque de Pointe-au-Père",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "315, avenue Thomas-Dionne",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/bibliotheques/pointeaupere.html?iddoc=140575",
+                "COURRIEL": "bibliotheque.pointe-au-pere@ville.rimouski.qc.ca \r\n",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-722-4748",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services / Édifices municipaux",
+                "XNAD83MTM6": 233959.8623,
+                "YNAD83MTM6": 5375170.0527,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4611857159,
+                    48.3600831915,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 75,
+                "MUNICIPALITE": "10043",
+                "NOM": "Bibliothèque Pascal-Parent",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "22, rue Lévesque",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/bibliotheques/pascalparent.html?iddoc=140576",
+                "COURRIEL": "bibliotheque.pascal-parent@ville.rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-735-5055",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services / Édifices municipaux",
+                "XNAD83MTM6": 233579.2568,
+                "YNAD83MTM6": 5358377.2493,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7119165117,
+                    48.3724123973,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 76,
+                "MUNICIPALITE": "10043",
+                "NOM": "Bibliothèque Le Bic",
+                "TYPE": "Bureaux d’arrondissement, les points de service et les hôtels de ville",
+                "ADRESSE": "149, rue de Sainte-Cécile-du-Bic\r\n",
+                "WEB": "http://www.ville.rimouski.qc.ca/fr/citoyens/nav/bibliotheques/bic.html?iddoc=172988",
+                "COURRIEL": "bibliotheque.bic@ville.rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-736-5325",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Services / Édifices municipaux",
+                "XNAD83MTM6": 215022.8804,
+                "YNAD83MTM6": 5360011.3802,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.527177957,
+                    48.4490715309,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 77,
+                "MUNICIPALITE": "10043",
+                "NOM": "Pavillon d'éducation physique et des sports",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "60, rue de l'Évêché Ouest",
+                "WEB": "https://www4.cegep-rimouski.qc.ca/sportsvie/pepsaccueil/",
+                "COURRIEL": "pepsriki@cegep-rimouski.qc.ca",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": "418-723-1880",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Attrait touristique et point d'intérêt",
+                "XNAD83MTM6": 228822.1719,
+                "YNAD83MTM6": 5368334.8298,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.7052910108,
+                    48.3744033455,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 78,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc de la Chute",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "route du Golf-du-Bic",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 215517.1613,
+                "YNAD83MTM6": 5360225.0012,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4581460316,
+                    48.5114962457,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 79,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc Flori-Jeux",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "315, rue Thomas-Dionne",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 234015.1477,
+                "YNAD83MTM6": 5375209.4162,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4767511514,
+                    48.3915139296,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 80,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc Frontenac",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "Rue Frontenac",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 232470.4587,
+                "YNAD83MTM6": 5361886.4423,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5286744382,
+                    48.3900405979,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 81,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc Place Jalna",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "Accès par la rue Vigno",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 228623.3277,
+                "YNAD83MTM6": 5361772.9473,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.4937714595,
+                    48.4921844079,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 82,
+                "MUNICIPALITE": "10043",
+                "NOM": "Parc Pointe-à-Pouliot",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "rue du Fleuve",
+                "WEB": " ",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 231355.3864,
+                "YNAD83MTM6": 5373095.7773,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.575445319,
+                    48.440259218,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 83,
+                "MUNICIPALITE": "10043",
+                "NOM": "Sentiers du littoral et de la rivière Rimouski",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "Rimouski",
+                "WEB": "http://www.rimouskiweb.com/espverts/description.html",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": " ",
+                "PHONE_A": " ",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 225238.2387,
+                "YNAD83MTM6": 5367404.0581,
+                "GEOM": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -68.5125839684,
+                    48.4490307313,
+                    0
+                ]
+            },
+            "properties": {
+                "OBJECTID": 84,
+                "MUNICIPALITE": "10043",
+                "NOM": "Complexe sportif Desjardins",
+                "TYPE": "Centres culturels, de loisirs, récréatifs et sportifs",
+                "ADRESSE": "150, 2e Rue Est",
+                "WEB": "https://www.piscinesrimouski.com/complexe-sportif-desjardins.html",
+                "COURRIEL": " ",
+                "INFORMATIO": " ",
+                "A_INFO_PHO": "Ligne info-piscines",
+                "PHONE_A": "418 724-5368",
+                "B_INFO_PHO": " ",
+                "PHONE_B": " ",
+                "TYPE_SITE": "Parc et équipement",
+                "XNAD83MTM6": 229901.579936,
+                "YNAD83MTM6": 5368315.91216,
+                "GEOM": "Point"
+            }
+        }
+    ]
+}

@@ -23,11 +23,11 @@ class LeafletComponent extends React.Component {
     }
 
     renderPastilles() {
-        return this.state.data.map(el => {
-            const obj = { lat: el.Coordinate[1], lng: el.Coordinate[0] }
-            const desc = [el.NomDeLOeuvre, el.NomArtiste, el.Categorie, el.Promoteur]
+        return this.state.data.map((el, i) => {
+            const obj = { lat: el.geometry.coordinates[1], lng: el.geometry.coordinates[0] }
+            const desc = [el.properties.NOM_DE_L_OEUVRE, el.properties.NOM_ARTISTE, el.properties.CATEGORIE, el.properties.PROMOTEUR]
 
-            return <Pastille key={el.NumerosDeFiche} position={obj} popupMessage={desc} data={el}></Pastille>
+            return <Pastille key={i} position={obj} popupMessage={desc} data={el}></Pastille>
         })
 
     }

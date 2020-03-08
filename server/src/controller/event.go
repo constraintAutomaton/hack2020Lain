@@ -13,7 +13,7 @@ func Event(w http.ResponseWriter, r *http.Request) {
 
 	repository := *(db.GetRepository())
 
-	jsonValue, _ := json.Marshal(repository.ListEvent())
+	jsonValue, _ := json.Marshal(repository.ListEvent2())
 	w.Header().Set("Content-Type", " application/json")
 	fmt.Fprint(w, bytes.NewBuffer(jsonValue))
 }

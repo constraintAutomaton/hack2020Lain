@@ -22,6 +22,8 @@ type DbDriver interface {
 	AddSchedule(user string, eventId int)
 	GetSchedule(user string) ScheduleData
 	ListEvent() []Event
+
+	ListEvent2() []interface{}
 	ListSchedule() map[string]ScheduleData
 	AddEvent(event Event)
 	PopulateDbEvent(nb int)
@@ -39,6 +41,20 @@ type Event struct {
 	NomArtiste     string
 	SiteArtiste    string
 	Id             int
+}
+
+type Event2 struct {
+	Coordinate     interface{} `json:Coordinate`
+	NumerosDeFiche interface{} `json:NumerosDeFiche`
+	Parcours       interface{} `json:Parcours`
+	NomDeLOeuvre   interface{} `json:NomDeLOeuvre`
+	Annee          interface{} `json:Annee`
+	Promoteur      interface{} `json:Promoteur`
+	Propriete      interface{} `json:Propriete`
+	Categorie      interface{} `json:Categorie`
+	NomArtiste     interface{} `json:NomArtiste`
+	SiteArtiste    interface{} `json:SiteArtiste`
+	Id             interface{} `json:Id`
 }
 
 type ScheduleData struct {
@@ -78,3 +94,9 @@ func createDummySchedule() ScheduleData {
 }
 
 var currentDataBase = setUpDb()
+
+func Testing() {
+	repo := SetRepositoryType(IN_MEMORY)
+
+	repo.PopulateDbEvent(100)
+}
