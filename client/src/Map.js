@@ -27,7 +27,7 @@ class LeafletComponent extends React.Component {
             const obj = { lat: el.Coordinate[1], lng: el.Coordinate[0] }
             const desc = [el.NomDeLOeuvre, el.NomArtiste, el.Categorie, el.Promoteur]
 
-            return <Pastille key={el.NumerosDeFiche} position={obj} popupMessage={desc} ></Pastille>
+            return <Pastille key={el.NumerosDeFiche} position={obj} popupMessage={desc} data={el}></Pastille>
         })
 
     }

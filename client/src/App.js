@@ -3,13 +3,13 @@ import './App.css';
 import LeafletComponent from "./Map"
 import Calendar from "./Calendar"
 import {Map as LeafletMap, TileLayer} from "react-leaflet";
+import { getData} from "./globalVariable";
 
 function App() {
-    fetch("http://localhost:8080/event")
     return (
     <div>
         <LeafletComponent />
-        <Calendar/>
+        <Calendar data="{getData()}"/>
     </div>
 
     )
