@@ -4,7 +4,9 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
+	"math/rand"
 	"net/http"
+	"time"
 
 	"github.com/constraintAutomaton/hack2020Lain/src/db"
 	"github.com/gorilla/mux"
@@ -26,5 +28,16 @@ func GetAllSchedule(w http.ResponseWriter, r *http.Request) {
 	fmt.Fprint(w, bytes.NewBuffer(jsonValue))
 }
 func PostSchedule(w http.ResponseWriter, r *http.Request) {
+	user := mux.Vars(r)["user"]
+	w.Write([]byte(user))
+}
 
+func stringWithCharset(length int, charset string) string {
+	b := make([]byte, length)
+	var seededRand *rand.Rand = rand.New(
+		rand.NewSource(time.Now().UnixNano()))
+	for i := range b {
+		b[i] = charset[seededRand.Intn(len(charset))]
+	}
+	return string(b)
 }
